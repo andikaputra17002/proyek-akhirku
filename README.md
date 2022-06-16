@@ -24,11 +24,10 @@ json
     "alamat": "example_alamat"
 }
 
-
 Response :
 
 -   Success
-
+```
 json
 {
   "meta": {
@@ -54,10 +53,10 @@ json
     }
   }
 }
-
+```
 
 -   Error
-
+```
 json
 {
     "meta": {
@@ -66,7 +65,7 @@ json
         "message": "Something went wrong"
     },
 }
-
+```
 <!-- ============= REGISTER END ============= -->
 
 <!-- ============= GET DATA DOKTER START ============= -->
@@ -84,7 +83,7 @@ Request :
 Response :
 
 -   Success
-
+```
 json
 {
   "meta": {
@@ -169,7 +168,7 @@ json
     "total": 1
   }
 }
-
+```
 <!-- ============= GET DATA DOKTER END ============= -->
 
 <!-- ============= SEARCH DATA DOKTER START ============= -->
@@ -188,7 +187,7 @@ Request :
 Response :
 
 -   Success
-
+```
 json
 {
   "meta": {
@@ -273,7 +272,7 @@ json
     "total": 1
   }
 }
-
+```
 <!-- ============= SEARCH DATA DOKTER END ============= -->
 
 <!-- ============= SEARCH DATA DOKTER START ============= -->
@@ -292,7 +291,7 @@ Request :
 Response :
 
 -   Success
-
+```
 json
 {
   "meta": {
@@ -377,6 +376,6 @@ json
     "total": 1
   }
 }
-
+```
 <!-- ============= SEARCH DATA DOKTER END ============= -->
 
