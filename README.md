@@ -11,7 +11,7 @@ Request :
 -   Header :
     -   Content-Type : application/json
 -   Body
-
+```
 json
 {
     "name": "example name",
@@ -23,7 +23,7 @@ json
     "jenis_kelamin": "example_jenis_kelamin"
     "alamat": "example_alamat"
 }
-
+```
 Response :
 
 -   Success
