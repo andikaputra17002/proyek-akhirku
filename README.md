@@ -17,6 +17,7 @@ json
     "name": "example name",
     "email": "example@gmail.com",
     "password": "example_password",
+    
     "password_confirmation": "example_password"
     "no_tlp": "example_telepon"
     "jenis_kelamin": "example_jenis_kelamin"
